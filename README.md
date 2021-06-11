@@ -37,6 +37,7 @@ mvn package
 
 # Contributors
 * [**NV6**](https://github.com/NotNV6) - *Main developer*
+* [**ImSrPanda**](https://github.com/Daligz) - *A human*
 
 # Contact
 * Discord: NV6#9111
